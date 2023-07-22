@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1087817286203-f55gk9r452su0vc45tttnvpu1m9b3c4k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1087817286203-f55gk9r452su0vc45tttnvpu1m9b3c4k</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1087817286203-4a2f77nfb4blb0iqnj5bo0gncl8r78tq.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCpTDfdmFi1WHmiwEC5t_IAuh5nt5LBrs0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1087817286203</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.github.kakimnsnv.myapp.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>fireship-lessons-8ac7d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fireship-lessons-8ac7d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1087817286203:ios:c1a2f88b73ac8b584b921e</string>
+</dict>
+</plist>

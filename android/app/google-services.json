@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1087817286203",
+    "project_id": "fireship-lessons-8ac7d",
+    "storage_bucket": "fireship-lessons-8ac7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087817286203:android:7d3a73d7b12de9434b921e",
+        "android_client_info": {
+          "package_name": "io.github.kakimnsnv.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087817286203-oct91fu7f9ovagaci50nc5026jjn6plb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB66Qdfdh8AOSJ94e4DAqySR5-k5aG4sos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087817286203-7jtd96bb0s6n2utd3rcucnn5grtl3df7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1087817286203-9bp4uptsp2ltvaljkg5108d6rn481naa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.github.kakimnsnv.quizapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087817286203:android:6bdf40f3031667d64b921e",
+        "android_client_info": {
+          "package_name": "io.github.kakimnsnv.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087817286203-4a2f77nfb4blb0iqnj5bo0gncl8r78tq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.kakimnsnv.quizapp",
+            "certificate_hash": "f30be7d725f0ebccd6400022a5b002c67bf01a6a"
+          }
+        },
+        {
+          "client_id": "1087817286203-oct91fu7f9ovagaci50nc5026jjn6plb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB66Qdfdh8AOSJ94e4DAqySR5-k5aG4sos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087817286203-7jtd96bb0s6n2utd3rcucnn5grtl3df7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1087817286203-9bp4uptsp2ltvaljkg5108d6rn481naa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.github.kakimnsnv.quizapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
